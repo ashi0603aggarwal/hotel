@@ -1,0 +1,9 @@
+testuser.$BillGenerationServiceImplementation
+Testuser.$BookingServiceImplementation
+testuser.$HotelDetailsServiceImplementation
+testuser.$HotelRegistrationServiceImplementation
+Testuser.$HotelRoomsServiceImplementation
+Testuser.$RoleServiceImplementation
+Testuser.$RoomDetailsServiceImplementation
+Testuser.$UserRoleServiceImplementation
+Testuser.$UserServiceImplementation
